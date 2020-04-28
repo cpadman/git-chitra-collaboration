@@ -4,4 +4,7 @@
 	- make sure you don't nest this command in another repo
 	- just like git init do this only once per repo
 
+- git switch
+- git checkout
+- git branch
 
