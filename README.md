@@ -1,3 +1,4 @@
+GIT Notes
 # git-chitra-collaboration
 - 'git clone <URL>': downloads the repo from the web to local.
 	- make sure you don't nest this command in another repo
